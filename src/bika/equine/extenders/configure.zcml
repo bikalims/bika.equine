@@ -1,0 +1,11 @@
+<configure
+        xmlns="http://namespaces.zope.org/zope"
+        i18n_domain="bika.equine">
+
+    <include package="archetypes.schemaextender"/>
+
+    <adapter
+        name='bika.equine.analysisrequest'
+        factory=".analysisrequest.AnalysisRequestSchemaModifier" />
+
+</configure>
