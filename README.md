@@ -3,7 +3,7 @@
   <a href="https://github.com/bikalabs/bika.equine">
     <img src="static/logo.png" alt="bika.equine" height="64" />
   </a>
-  <h1>BIKA DIARY</h1>
+  <h1>BIKA EQUINE</h1>
 
   <p>The BIKA EQUINE provides a unified interface to the SENAITE CORE for developers.</p>
 
