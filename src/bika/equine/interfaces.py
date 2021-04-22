@@ -21,7 +21,6 @@
 
 from bika.lims.interfaces import IBikaLIMS
 from senaite.lims.interfaces import ISenaiteLIMS
-from zope.interface import Interface
 
 
 class IBikaEquineLayer(IBikaLIMS, ISenaiteLIMS):
